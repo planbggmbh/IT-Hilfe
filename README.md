@@ -20,4 +20,4 @@ Wenn Sie die Dokumente bearbeiten möchten, verwenden Sie die Auszeichnungssprac
 - https://sphinx-rtd-theme.readthedocs.io/en/stable/
 
 
-[![Documentation Status](https://dieetage-doc.readthedocs.io/badge/?version=latest)](https://docs.dieetage.de)
+[![Documentation Status](https://readthedocs.org/projects/dieetage-doc/badge/?version=latest)](https://docs.dieetage.de)
