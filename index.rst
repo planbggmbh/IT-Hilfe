@@ -16,7 +16,7 @@
 	./outlook/owa/postfach
 	
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 1
 	:caption: weitere E-Mailprogramme
 	
 	./mailprotocol/imap-smtp

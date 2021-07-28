@@ -1,5 +1,8 @@
 ﻿IMAP, POP, SMTP
-==========================================
+================
+
+E-Mailprogrammeinstellungen
+---------------------------
 
 .. index:: POP, IMAP, SMTP
 
@@ -21,5 +24,37 @@ Dafür benötigen Sie die Einstellungen für den Posteingangsserver (POP oder IM
 
 .. hint::
  Die Nutzung des Postausgangsservers (SMTP) ist in der Standardkonfiguration Ihres Nutzeraccounts deaktiviert. Sofern Sie SMTP 
- benötigen, können Sie über `help@dieetage.de <mailto:help.dieetage.de>`_ die Nutzung beauftragen. Unter normalen Umständen 
- sollte spätestens nach 24h der Dienst vom Administrator für Sie aktiviert sein, worüber Sie informiert werden.
+ benötigen, können Sie über `help@dieetage.de <mailto:help.dieetage.de>`_ die Nutzung beauftragen. Der Dienst sollte spätestens 
+ nach 24h aktiv sein. Der Administrator informiert Sie über die Aktivierung per E-Mail.
+
+IMAP
+-----
+
+**IMAP** (Internet Message Access Protocoll) ist ein Netzwerkprotokoll, das ein Netzwerkdateisystem für 
+E-Mails bereitstellt. IMAP wurde in den 1980er Jahren mit dem Aufkommen von Personal Computern entworfen, um bei der 
+Mail-Kommunikation Abhängigkeiten von einzelnen Client-Rechnern aufzulösen. Zu diesem Zweck erweitert IMAP die Funktionen und 
+Verfahren so, dass Benutzer ihre Mails, Ordnerstrukturen und Einstellungen auf den (Mail-)Servern speichern und belassen können. 
+Die (PC-)Clients greifen direkt online auf die Informationen auf den Servern zu und müssen allenfalls Kopien davon beherbergen. 
+Während ein Benutzer von POP nach Verlust seines PC entweder alle E-Mails verloren hat oder bereits gelöschte E-Mails erneut 
+erhält, behält ein Benutzer von IMAP seine Mails auf den Servern und, auch über mehrere und verschiedene Clients hinweg, immer 
+einen einheitlichen Zugriff. [#FN1]_
+ 
+POP
+-----
+
+**POP** (Post Office Protokoll) ist ein Internet-Protokoll um E-Mails vom Mailserver auf den lokalen Rechner herunterzuladen.
+In der Regel werden die E-Mails, im Gegensatz zu IMAP, auf dem Mailserver beim Abrufen der E-Mails mit einem E-Mail-Client 
+(E-Mailprogramm) gelöscht.
+
+.. note::
+ POP3 ist in der Funktionalität sehr beschränkt und erlaubt nur das Auflisten, Abholen und Löschen von E-Mails am Mailserver. 
+ Für weitere Funktionalitäten wie hierarchische Mailboxen direkt am Mailserver, Zugriff auf mehrere Mailboxen während 
+ einer Sitzung, Vorselektion der E-Mails usw. müssen Protokolle wie IMAP Verwendung finden.
+
+SMTP
+-----
+
+Während IMAP und POP dem E-Mailempfang dienen ist **SMTP** (Simple Mail Transfer Protocoll) ein Internet-Protokoll zum 
+Versenden von E-Mails.
+
+.. [#FN1] Seite „Internet Message Access Protocol“. In: Wikipedia – Die freie Enzyklopädie. Bearbeitungsstand: 5. Oktober 2020, 08:31 UTC. URL: https://de.wikipedia.org/w/index.php?title=Internet_Message_Access_Protocol&oldid=204276263 (Abgerufen: 28. Juli 2021, 08:44 UTC)
