@@ -7,7 +7,7 @@ E-Mailprogrammeinstellungen
 .. index:: POP, IMAP, SMTP
 
 .. hint::
-Die nachfolgenden Ausführungen sind veraltet. Microsoft hat die Basisauthentifizierung (Benutzername und Passwort) seit Oktober deaktiviert. Insofern ist mit den nachfolgenden Einstellungen ein Abrufen oder Senden von E-Mails nicht möglich. E-Mailclients, die nur die Basisauthentifizierung unterstützen, sind insofern nicht mehr für Microsoft 365 nutzbar. Nur wenn diese OAuth unterstützen können Sie diese nutzen. Alternativ können Sie Outlook (Android/iOS) oder den `Webclient <https:\\outlook.office.com>` nutzen.
+Die nachfolgenden Ausführungen sind veraltet. Microsoft hat die Basisauthentifizierung (Benutzername und Passwort) seit Oktober deaktiviert. Insofern ist mit den nachfolgenden Einstellungen ein Abrufen oder Senden von E-Mails nicht möglich. E-Mailclients, die nur die Basisauthentifizierung unterstützen, sind insofern nicht mehr für Microsoft 365 nutzbar. Nur wenn diese OAuth unterstützen können Sie diese nutzen. Alternativ können Sie Outlook (Android/iOS) oder den `Webclient <https:\\outlook.office.com>`_ nutzen.
 
 Sofern Sie über keine Outlook-Lizenz für die Desktopversion des Programmes verfügen und Outlook-Web nicht verwenden möchten, können Sie auch ein anderes E-Mail-Programm nutzen.
 Dafür benötigen Sie die Einstellungen für den Posteingangsserver (POP oder IMAP) und die Einstellungen des Postausgangsservers (SMTP).
