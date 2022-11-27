@@ -2,9 +2,9 @@
 ================
 
 .. hint::
- Die nachfolgenden Ausführungen sind veraltet. Microsoft hat die Basisauthentifizierung (Benutzername und Passwort) seit Oktober deaktiviert. Insofern ist mit den      nachfolgenden Einstellungen ein Abrufen oder Senden
- von E-Mails nicht möglich. E-Mailclients, die nur die Basisauthentifizierung unterstützen, sind insofern nicht mehr für Microsoft 365 nutzbar. Nur wenn diese OAuth unterstützen können Sie diese nutzen.
- Alternativ können Sie Outlook (Android/iOS) oder den `Webclient <https:\\outlook.office.com>`_ nutzen.
+ Die nachfolgenden Ausführungen sind veraltet. Microsoft hat die Basisauthentifizierung (Benutzername und Passwort) in Microsoft 365 seit Oktober deaktiviert. Dadurch ist mit diesen Einstellungen ein Abrufen oder Senden
+ von E-Mails mit E-Mailclients, die nur die Basisauthentifizierung unterstützen, nicht mehr möglich. Nur wenn der E-Mailclient OAuth unterstützt können Sie diesen weiter mit Micrrosoft 365 verwenden.
+ Alternativ können Sie auf Outlook (Android und iOS - kostenfrei / Windows nur mit einer Outlook-Lizenz) oder den `Webclient <https:\\outlook.office.com>`_ zurückgreifen.
 
 E-Mailprogrammeinstellungen
 ---------------------------
