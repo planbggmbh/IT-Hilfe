@@ -12,7 +12,7 @@ Zugriff auf ein Funktionspostfach in der Schule durch den Administrator eingesch
 .. hint::
 	In der Desktopversion von Outlook ist dieser Schritt nicht notwendig, da hier das Funktionspostfach automatisch angezeigt wird.
 	
-Sofern Sie kein Zugriff auf Ihr Funktionspostfach haben, wenden Sie sich bitte an `help@dieetage.de <mailto:help.dieetage.de>`_.
+Sofern Sie kein Zugriff auf Ihr Funktionspostfach haben, wenden Sie sich bitte an `help@planb-bildung.de`.
 
 Funktionspostfach in Outlook Web anzeigen
 ******************************************
