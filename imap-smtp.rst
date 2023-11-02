@@ -29,7 +29,7 @@ Dafür benötigen Sie die Einstellungen für den Posteingangsserver (POP oder IM
 
 .. hint::
  Die Nutzung des Postausgangsservers (SMTP) ist in der Standardkonfiguration Ihres Nutzeraccounts deaktiviert. Sofern Sie SMTP 
- benötigen, können Sie über `help@dieetage.de <mailto:help.dieetage.de>`_ die Nutzung beauftragen. Der Dienst sollte spätestens 
+ benötigen, können Sie über :`help@dieetage.de <mailto:help.dieetage.de>`_: die Nutzung beauftragen. Der Dienst sollte spätestens 
  nach 24h aktiv sein. Der Administrator informiert Sie über die Aktivierung per E-Mail.
 
 IMAP
