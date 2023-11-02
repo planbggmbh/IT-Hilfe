@@ -1,5 +1,5 @@
-﻿IMAP, POP, SMTP
-================
+﻿IMAP, POP, SMTP (veraltet)
+==========================
 
 .. hint::
 Die nachfolgenden Ausführungen sind veraltet. Microsoft hat die Basisauthentifizierung (Benutzername und Passwort) seit Oktober deaktiviert. Insofern ist mit den nachfolgenden Einstellungen ein Abrufen oder Senden

@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DIE ETAGE'
+project = 'Plan B gGmbH'
 copyright = '2021, Andreas Baum'
 author = 'Andreas Baum'
 
