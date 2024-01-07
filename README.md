@@ -3,8 +3,7 @@ Hilfe für IT-bezogene Fragen, mit Schwerpunkt Microsoft 365 Education.
 
 ## Hilfe
 
-DIE ETAGE hostet eine durchsuchbare Version dieser Dokumentation unter
-coming soon
+DIE ETAGE hostet eine durchsuchbare Version dieser Dokumentation unter https://docs.planb-bildung.de
 
 ## Hinweise für Branches und Pull Requests
 
