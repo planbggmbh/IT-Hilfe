@@ -1,4 +1,4 @@
-# IT-Hilfe für DIE ETAGE
+# IT-Hilfe für Plan B gGmbH
 Hilfe für IT-bezogene Fragen, mit Schwerpunkt Microsoft 365 Education.
 
 ## Hilfe
